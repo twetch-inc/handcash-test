@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Handcash from '@handcash/handcash-connect-beta';
 
 export default function Home() {
   return (
