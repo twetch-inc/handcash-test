@@ -8,8 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "@handcash/handcash-connect": "^0.2.2",
-    "@handcash/handcash-connect-beta": "^0.1.7",
+    "@handcash/handcash-connect": "^0.2.3",
+    "buffer": "^6.0.3",
     "next": "10.0.1",
     "prettier": "^2.2.1",
     "react": "17.0.1",
